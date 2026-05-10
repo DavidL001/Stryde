@@ -41,20 +41,24 @@ Two tables. The sales dataset covers every transaction from January 2022 through
 
 ## Executive Summary
 
-Stryde finished 2023 down across the board. Sales came in at $52M and profit at $22M, both off roughly 13 to 14% from 2022. Units sold dropped at the same rate, and margin barely moved (42% to 41.9%).
+### Enterprise Performance (2022 to 2023)
+
+| | |
+|---|---|
+| <img src="images/kpi_panel.png" alt="Enterprise KPI Summary" width="280"/> | **1. Across-the-board decline in 2023** <br><br> Stryde finished 2023 down on every major metric. Sales fell to $52M (down 13%), profit dropped to $22M (down 14%), and units sold declined 13% as well. It wasn't one bad quarter or one weak region. The softness was consistent across the full year. <br><br> **2. Margin held, which narrows the problem** <br><br> Profit margin only slipped one point, from 42% to 41.9%. When revenue falls but margin barely moves, the issue isn't pricing or costs. Stryde isn't selling things for less or spending more to produce them. It's just selling less. Fewer transactions, not worse ones. <br><br> **3. Volume is the story** <br><br> Units sold and revenue declined at almost exactly the same rate, both around 13%. That kind of lockstep drop points to demand. Customers bought less, or fewer customers bought at all. Either way, margin staying intact means the business model is still working. There just wasn't enough volume to show it. <br><br> **4. 2023 set the baseline for what comes next** <br><br> The 2022 to 2023 numbers don't paint a great picture on their own, but they gave a clear starting point for forecasting. The question heading into 2024 wasn't whether Stryde could grow. It was whether reallocating resources toward the right retail partners could get volume moving again without needing any new investment. |
+
+---
+
+### 2024 Forecast Results
 
 <p align="center">
-  <img src="images/kpi_panel.png" alt="Enterprise KPI Summary" width="160"/>
+  <img src="images/forecast_chart.png" alt="2024 Baseline vs Reallocation Forecast" width="900"/>
 </p>
 
-| KPI | 2023 | vs. 2022 |
-|---|---|---|
-| Profit | $22M | -14% (-$3.43M) |
-| Sales | $52M | -13% (-$7.58M) |
-| Profit Margin | 41.9% | -1pt |
-| Units Sold | 1.16M | -13% (-0.17M) |
-
-The fact that margin stayed basically flat while revenue and units both fell tells you something: this isn't a pricing problem or a cost problem. Stryde is just selling less. The economics of individual transactions are fine. There are just fewer of them.
+| | |
+|---|---|
+| **1. The baseline on its own wasn't encouraging** <br><br> Projecting forward from 2022 to 2023 trends, the baseline forecast put 2024 full-year sales at roughly $45.4M. That's essentially flat to slightly below 2023, with a dip in Q1 before a gradual recovery through Q4. No real growth, just normalization. | **3. The gap stays consistent all year** <br><br> The reallocation scenario runs $400K to $500K above baseline every single month. It's not front-loaded or dependent on a strong Q4. That consistency matters because it means the uplift isn't a seasonal bet. It's structural, baked into which partners are getting investment. |
+| **2. Reallocating 20% away from Walmart changes the picture** <br><br> Shifting that budget to Sports Direct, Kohl's, and Foot Locker pushes the full-year projection to $51.3M, a $5.92M improvement over baseline. Every month in the reallocation scenario comes in 12 to 14% above the baseline projection. | **4. Nearly $6M of upside, zero new budget required** <br><br> The reallocation scenario doesn't assume more marketing spend, new markets, or new product lines. It's purely a question of where existing dollars are pointed. The model suggests Stryde is leaving meaningful revenue on the table by continuing to resource underperforming partners at current levels. |
 
 ---
 
