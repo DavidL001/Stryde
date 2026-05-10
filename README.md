@@ -10,12 +10,20 @@
 
 ## Background
 
-| | |
-|---|---|
-| **About Stryde** | Stryde is a US sportswear brand selling athletic and street footwear and apparel across five regions (Southeast, Midwest, South, Northeast, and West) through six retail partners: Foot Locker, Kohl's, Sports Direct, West Gear, Amazon, and Walmart, across in-store, outlet, and online channels. |
-| **The Ask** | The Head of Operations needed a clear picture of where the business stood after two years of post-pandemic normalization. I was tasked with evaluating performance from 2022 to 2023, identifying what was actually driving the numbers, and building a 2024 forecast. That forecast included a scenario modeling the impact of pulling resources from the weakest retail partners and putting them behind the strongest ones. |
-
-The work broke down into four areas: enterprise-level KPIs, regional performance, product mix, and the 2024 forecast.
+<table border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td width="140" valign="top"><strong>About Stryde</strong></td>
+<td valign="top"><small>Stryde is a US sportswear brand selling athletic and street footwear and apparel across five regions (Southeast, Midwest, South, Northeast, and West) through six retail partners: Foot Locker, Kohl's, Sports Direct, West Gear, Amazon, and Walmart, across in-store, outlet, and online channels.</small></td>
+</tr>
+<tr>
+<td valign="top"><strong>The Ask</strong></td>
+<td valign="top"><small>The Head of Operations needed a clear picture of where the business stood after two years of post-pandemic normalization. I was tasked with evaluating performance from 2022 to 2023, identifying what was actually driving the numbers, and building a 2024 forecast. That forecast included a scenario modeling the impact of pulling resources from the weakest retail partners and putting them behind the strongest ones.</small></td>
+</tr>
+<tr>
+<td valign="top"><strong>Scope</strong></td>
+<td valign="top"><small>The work broke down into four areas: enterprise-level KPIs, regional performance, product mix, and the 2024 forecast.</small></td>
+</tr>
+</table>
 
 ---
 
@@ -28,24 +36,27 @@ The work broke down into four areas: enterprise-level KPIs, regional performance
 
 ---
 
-## Data
-
-Two tables. The sales dataset covers every transaction from January 2022 through December 2023: retailer, date, region, state, city, product, price, units, revenue, profit, margin, and sales channel. The forecast table holds the monthly 2024 projections for both the baseline and reallocation scenarios.
-
-| File | What's in it |
-|---|---|
-| `Stryde_US_Sales_Dataset.csv` | Transaction-level sales data, 2022 to 2023 |
-| `stryde_forecast_scenarios.csv` | Monthly 2024 forecast, baseline vs. reallocation |
-
----
-
 ## Executive Summary
 
 ### Enterprise Performance (2022 to 2023)
 
-| | |
-|---|---|
-| <img src="images/kpi_panel.png" alt="Enterprise KPI Summary" width="280"/> | **1. Across-the-board decline in 2023** <br><br> Stryde finished 2023 down on every major metric. Sales fell to $52M (down 13%), profit dropped to $22M (down 14%), and units sold declined 13% as well. It wasn't one bad quarter or one weak region. The softness was consistent across the full year. <br><br> **2. Margin held, which narrows the problem** <br><br> Profit margin only slipped one point, from 42% to 41.9%. When revenue falls but margin barely moves, the issue isn't pricing or costs. Stryde isn't selling things for less or spending more to produce them. It's just selling less. Fewer transactions, not worse ones. <br><br> **3. Volume is the story** <br><br> Units sold and revenue declined at almost exactly the same rate, both around 13%. That kind of lockstep drop points to demand. Customers bought less, or fewer customers bought at all. Either way, margin staying intact means the business model is still working. There just wasn't enough volume to show it. <br><br> **4. 2023 set the baseline for what comes next** <br><br> The 2022 to 2023 numbers don't paint a great picture on their own, but they gave a clear starting point for forecasting. The question heading into 2024 wasn't whether Stryde could grow. It was whether reallocating resources toward the right retail partners could get volume moving again without needing any new investment. |
+<table border="0" cellpadding="16" cellspacing="0">
+<tr>
+<td width="320" valign="top">
+<img src="images/kpi_panel.png" alt="Enterprise KPI Summary" width="300"/>
+</td>
+<td valign="top">
+<p><small><strong>1. Across-the-board decline in 2023</strong><br><br>
+Stryde finished 2023 down on every major metric. Sales fell to $52M (down 13%), profit dropped to $22M (down 14%), and units sold declined 13% as well. It wasn't one bad quarter or one weak region. The softness was consistent across the full year.</small></p>
+<p><small><strong>2. Margin held, which narrows the problem</strong><br><br>
+Profit margin only slipped one point, from 42% to 41.9%. When revenue falls but margin barely moves, the issue isn't pricing or costs. Stryde isn't selling things for less or spending more to produce them. It's just selling less. Fewer transactions, not worse ones.</small></p>
+<p><small><strong>3. Volume is the story</strong><br><br>
+Units sold and revenue declined at almost exactly the same rate, both around 13%. That kind of lockstep drop points to demand. Customers bought less, or fewer customers bought at all. Either way, margin staying intact means the business model is still working. There just wasn't enough volume to show it.</small></p>
+<p><small><strong>4. 2023 set the baseline for what comes next</strong><br><br>
+The 2022 to 2023 numbers don't paint a great picture on their own, but they gave a clear starting point for forecasting. The question heading into 2024 wasn't whether Stryde could grow. It was whether reallocating resources toward the right retail partners could get volume moving again without needing any new investment.</small></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,10 +66,22 @@ Two tables. The sales dataset covers every transaction from January 2022 through
   <img src="images/forecast_chart.png" alt="2024 Baseline vs Reallocation Forecast" width="900"/>
 </p>
 
-| | |
-|---|---|
-| **1. The baseline on its own wasn't encouraging** <br><br> Projecting forward from 2022 to 2023 trends, the baseline forecast put 2024 full-year sales at roughly $45.4M. That's essentially flat to slightly below 2023, with a dip in Q1 before a gradual recovery through Q4. No real growth, just normalization. | **3. The gap stays consistent all year** <br><br> The reallocation scenario runs $400K to $500K above baseline every single month. It's not front-loaded or dependent on a strong Q4. That consistency matters because it means the uplift isn't a seasonal bet. It's structural, baked into which partners are getting investment. |
-| **2. Reallocating 20% away from Walmart changes the picture** <br><br> Shifting that budget to Sports Direct, Kohl's, and Foot Locker pushes the full-year projection to $51.3M, a $5.92M improvement over baseline. Every month in the reallocation scenario comes in 12 to 14% above the baseline projection. | **4. Nearly $6M of upside, zero new budget required** <br><br> The reallocation scenario doesn't assume more marketing spend, new markets, or new product lines. It's purely a question of where existing dollars are pointed. The model suggests Stryde is leaving meaningful revenue on the table by continuing to resource underperforming partners at current levels. |
+<table border="0" cellpadding="16" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+<p><small><strong>1. The baseline on its own wasn't encouraging</strong><br><br>
+Projecting forward from 2022 to 2023 trends, the baseline forecast put 2024 full-year sales at roughly $45.4M. That's essentially flat to slightly below 2023, with a dip in Q1 before a gradual recovery through Q4. No real growth, just normalization.</small></p>
+<p><small><strong>2. Reallocating 20% away from Walmart changes the picture</strong><br><br>
+Shifting that budget to Sports Direct, Kohl's, and Foot Locker pushes the full-year projection to $51.3M, a $5.92M improvement over baseline. Every month in the reallocation scenario comes in 12 to 14% above the baseline projection.</small></p>
+</td>
+<td width="50%" valign="top">
+<p><small><strong>3. The gap stays consistent all year</strong><br><br>
+The reallocation scenario runs $400K to $500K above baseline every single month. It's not front-loaded or dependent on a strong Q4. That consistency matters because it means the uplift isn't a seasonal bet. It's structural, baked into which partners are getting investment.</small></p>
+<p><small><strong>4. Nearly $6M of upside, zero new budget required</strong><br><br>
+The reallocation scenario doesn't assume more marketing spend, new markets, or new product lines. It's purely a question of where existing dollars are pointed. The model suggests Stryde is leaving meaningful revenue on the table by continuing to resource underperforming partners at current levels.</small></p>
+</td>
+</tr>
+</table>
 
 ---
 
