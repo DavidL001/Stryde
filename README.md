@@ -21,12 +21,10 @@ The work broke down into four areas: enterprise-level KPIs, regional performance
 
 ## Dashboard
 
-> GitHub doesn't support iframe embeds, so Tableau dashboards can't render inline. The standard workaround is to publish to [Tableau Public](https://public.tableau.com), take a screenshot, and link the image so clicking it opens the live, interactive version.
+> Please click on one of the images to navigate to interactive dashboard
 
-[![Stryde Sales Analysis Dashboard](images/stryde_sales_analysis.png)](https://public.tableau.com/YOUR_DASHBOARD_LINK_HERE)
-[![Stryde Strategic Outlook Dashboard](images/stryde_strategic_outlook.png)](https://public.tableau.com/YOUR_DASHBOARD_LINK_HERE)
-
-> To set this up: drop your screenshots in an `/images` folder and swap in your Tableau Public URL above.
+[![Stryde Sales Analysis Dashboard](images/stryde_sales_analysis.png)](https://public.tableau.com/shared/WGHPNG7NQ?:display_count=n&:origin=viz_share_link)
+[![Stryde Strategic Outlook Dashboard](images/stryde_strategic_outlook.png)](https://public.tableau.com/shared/NBFDYN5R3?:display_count=n&:origin=viz_share_link)
 
 ---
 
