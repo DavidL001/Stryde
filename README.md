@@ -106,15 +106,6 @@ The Southeast is worth flagging as a concern. It's last in both sales and units,
   <img src="images/product_mix.png" alt="Product Mix by Region" width="760"/>
 </p>
 
-| Product | Strongest Region |
-|---|---|
-| Men's Street Footwear | West |
-| Women's Apparel | West / South |
-| Men's Athletic Footwear | Northeast |
-| Men's Apparel | Midwest / South |
-| Women's Street Footwear | Distributed evenly |
-| Women's Athletic Footwear | Southeast |
-
 Men's Street Footwear is the highest-revenue category, anchored by the West. One thing that stood out: Women's Athletic Footwear is heavily concentrated in the Southeast, which is Stryde's weakest region. That category is probably underexposed in markets where the brand is already doing well, and there's a real opportunity to push it into the West and Northeast.
 
 Overall, no single category is running away from the others. The mix is pretty balanced, which means there isn't one breakout product carrying the company right now.
@@ -189,30 +180,3 @@ A ~$6M lift from a reallocation. No new budget, no new products, no new markets.
 **Push Women's Athletic Footwear into stronger markets.** Right now it's concentrated in the Southeast, where Stryde has the least traction. This category likely has more potential than the current numbers show. It just needs exposure in regions where the brand is already winning.
 
 ---
-
-## Repo Structure
-
-```
-Stryde_Sales_Analysis/
-│
-├── README.md
-├── Stryde_EDA_and_Forecasting.ipynb
-│
-├── data/
-│   ├── Stryde_US_Sales_Dataset.csv
-│   └── stryde_forecast_scenarios.csv
-│
-└── images/
-    ├── stryde_logo.png
-    ├── stryde_sales_analysis.png
-    ├── stryde_strategic_outlook.png
-    ├── regional_breakdown.png
-    ├── product_mix.png
-    ├── mom_trends.png
-    ├── forecast_chart.png
-    └── reallocation_summary.png
-```
-
----
-
-*[Your Name] &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; [Portfolio](https://yoursite.com)*
