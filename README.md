@@ -85,7 +85,7 @@ The reallocation scenario doesn't assume more marketing spend, new markets, or n
 
 ---
 
-## What the Data Showed
+## Insights
 
 ### Regional Performance
 
@@ -93,13 +93,6 @@ The reallocation scenario doesn't assume more marketing spend, new markets, or n
   <img src="images/regional_breakdown.png" alt="Regional Breakdown by Profit, Sales, Margin, and Units Sold" width="900"/>
 </p>
 
-| Region | Sales | Profit | Margin | Units Sold |
-|---|---|---|---|---|
-| West | $13.49M | $5.26M | 39.0% | 285.0K |
-| Northeast | $12.32M | $4.95M | 40.2% | 256.0K |
-| South | $9.23M | $4.41M | 47.7% | 236.0K |
-| Midwest | $8.92M | $3.86M | 43.3% | 214.6K |
-| Southeast | $8.46M | $3.51M | 41.4% | 168.1K |
 
 The West and Northeast lead on volume, together accounting for about half of total company sales. The more interesting finding is the South. It ranks third in revenue but has by far the best margin at 47.7%, nearly 9 points ahead of the West. The South isn't Stryde's biggest market, but it's the most profitable one.
 
@@ -151,10 +144,6 @@ The reallocation scenario asks a simple question: if Stryde took 20% of the budg
 </p>
 
 ### Reallocation Logic
-
-<p align="center">
-  <img src="images/reallocation_summary.png" alt="Reallocation Summary and Monthly Projections" width="900"/>
-</p>
 
 | Retailer | Change | Why |
 |---|---|---|
