@@ -29,10 +29,10 @@
 
 ## Dashboard
 
-> Please click on one of the images to navigate to interactive dashboard
+> Please click on any of the images below to navigate to interactive Tableau dashboard
 
-[![Stryde Sales Analysis Dashboard](images/stryde_sales_analysis.png)](https://public.tableau.com/shared/WGHPNG7NQ?:display_count=n&:origin=viz_share_link)
-[![Stryde Strategic Outlook Dashboard](images/stryde_strategic_outlook.png)](https://public.tableau.com/shared/NBFDYN5R3?:display_count=n&:origin=viz_share_link)
+[![Stryde Sales Analysis Dashboard](images/stryde_sales_analysis.png)](https://public.tableau.com/shared/78NG52TGS?:display_count=n&:origin=viz_share_link)
+[![Stryde Strategic Outlook Dashboard](images/stryde_strategic_outlook.png)]([https://public.tableau.com/YOUR_DASHBOARD_LINK_HERE](https://public.tableau.com/shared/JNK48FDHN?:display_count=n&:origin=viz_share_link))
 
 ---
 
@@ -93,10 +93,33 @@ The reallocation scenario doesn't assume more marketing spend, new markets, or n
   <img src="images/regional_breakdown.png" alt="Regional Breakdown by Profit, Sales, Margin, and Units Sold" width="900"/>
 </p>
 
-
 The West and Northeast lead on volume, together accounting for about half of total company sales. The more interesting finding is the South. It ranks third in revenue but has by far the best margin at 47.7%, nearly 9 points ahead of the West. The South isn't Stryde's biggest market, but it's the most profitable one.
 
 The Southeast is worth flagging as a concern. It's last in both sales and units, and its month-to-month numbers are the most erratic of any region. Before writing it off, it's worth understanding whether the issue is the retailer mix there, the product assortment, or just lower brand awareness.
+
+---
+
+### Retailer Performance
+
+<p align="center">
+  <img src="images/retailer_breakdown.png" alt="Retailer Breakdown by Profit, Sales, Margin, and Units Sold" width="900"/>
+</p>
+
+Foot Locker and Sports Direct are running the show. Together they account for over half of total company sales ($26M out of $52M) and are neck and neck on profit. The real separation shows up in margin: Sports Direct runs at 45%, the highest of any partner, while generating nearly the same absolute profit as Foot Locker on $1.3M less in revenue. That's the most efficient retail relationship Stryde has.
+
+West Gear sits comfortably in third on its own. Below that, there's a noticeable drop to Kohl's, Amazon, and Walmart, which together only contribute about $15.6M in sales. Walmart is the clear underperformer: lowest sales, lowest margin, and fewest units by a significant margin. It's not close.
+
+<p align="center">
+  <img src="images/retailer_product_mix.png" alt="Product Mix by Retailer" width="760"/>
+</p>
+
+The product mix across retailers is fairly consistent — every partner carries a similar blend of Men's Street Footwear, Women's Apparel, and the other categories. No single retailer is heavily skewed toward one product, which means there isn't an obvious assortment fix that would meaningfully change a partner's performance. The gap between top and bottom performers is more likely a distribution and investment issue than a product one.
+
+<p align="center">
+  <img src="images/retailer_mom.png" alt="Month over Month Profit by Retailer" width="900"/>
+</p>
+
+The month-over-month view by retailer tells a clearer story than the totals do. Foot Locker and Sports Direct both show strong mid-year peaks and recover well into Q4. West Gear follows a similar pattern but with less amplitude. Walmart and Amazon are essentially flat all year with very little movement, which tracks with their low overall contribution. Kohl's is the most volatile of the mid-tier partners, with sharp swings that are hard to plan around.
 
 ---
 
