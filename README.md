@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="images/stryde_logo.png" alt="Stryde Logo" width="420"/>
+  <img src="images/stryde_logo_dark.png#gh-dark-mode-only" alt="Stryde Logo" width="420"/>
+  <img src="images/stryde_logo_light.png#gh-light-mode-only" alt="Stryde Logo" width="420"/>
 </p>
+>
 
 # Stryde Sales Analysis & Strategic Outlook
 
